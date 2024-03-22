@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Hoosh Puepaes",
+    "vendor": "Prim Viole",
+    "description": "Slip into these plush cloud-like shoes that hug your feet like a warm hug, making every step feel like a gentle stroll on a marshmallow. With their cushioned soles and buttery soft fabric, these shoes will have you dancing through the day with a smile on your face and a skip in your step!",
+    "images": {
+      "gallery": "./css/assets/Rectangle.png",
+      "alt": "shoe product main",
+      "thumbnails": [
+        {
+          "one": {
+            "img": "./css/assets/Rectangle.png",
+            "alt": "shoe product 1"
+          },
+          "two": {
+            "img": "./css/assets/shoes-2.png",
+            "alt": "shoe product 2"
+          },
+          "three": {
+            "img": "./css/assets/shoes-3.png",
+            "alt": "shoe product 3"
+          },
+          "four": {
+            "img": "./css/assets/shoes-4.png",
+            "alt": "shoe product 4"
+          }
+        }
+      ]
+    },
+    "price": {
+      "newPrice": 125.00,
+      "oldPrice": 250.00,
+      "discount": 50
+    },
+    "inventory": {
+      "quantity": 9
+    }
+  }
+]
